@@ -32,4 +32,6 @@ DAY 6
 We trained two models namely efficientnet and resnet101. Efficientnet gave only 12.50% accuracy for images in the dataset and identified 3 out 26 external images. But resnet101 identified 7 out of 26 images in the external images, eventhough having 36% accuracy in the trained dataset.
 
 DAY 7
+
+
 We tried to improve the accuracy of the resnet101 model with more epochs(250). There was improvement in accuracy for identifying images on the trained dataset, but there was no improvement in the accuracy for unseen dataset.
