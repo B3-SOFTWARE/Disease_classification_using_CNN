@@ -35,3 +35,14 @@ DAY 7
 
 
 We tried to improve the accuracy of the resnet101 model with more epochs(250). There was improvement in accuracy for identifying images on the trained dataset, but there was no improvement in the accuracy for unseen dataset.
+
+DAY 8
+
+
+We finetuned the resnet101 model, which improved its accuracy in preprocessed images to 80% and in raw images to 79%. The accuracy in new images is 26.92%.
+
+![WhatsApp Image 2025-01-12 at 19 12 23_9e257747](https://github.com/user-attachments/assets/316fd8eb-193c-4fdc-af51-de3a8875810b)
+
+![WhatsApp Image 2025-01-12 at 19 12 23_3a629d94](https://github.com/user-attachments/assets/be56bc3f-dd78-4a2b-8cd8-16ba2afe41a2)
+
+![WhatsApp Image 2025-01-12 at 19 12 23_2dc32bc6](https://github.com/user-attachments/assets/52bd7cd5-3663-4ea7-92f7-5efa10d512c4)
